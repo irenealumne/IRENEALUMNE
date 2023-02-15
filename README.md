@@ -2,7 +2,7 @@
 # Welcome to my personal page
 ## Intereses personales
 
--Música
--Videojuegos
--Naturaleza
--Estar con mi familia
+- Música
+- Videojuegos
+- Naturaleza
+- Estar con mi familia
